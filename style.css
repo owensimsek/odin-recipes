@@ -1,0 +1,21 @@
+body {
+  font-family: 'Courier New', monospace;
+  text-align: center;
+}
+
+h1 {
+    background-color: rgb(198, 198, 71);
+    padding: 10px 10px;
+}
+
+p {
+    background-color: rgb(255, 190, 68);
+    padding: 10px 10px;
+}
+
+ul {
+    display: block;
+    background-color: rgb(148, 255, 148);
+    list-style-position: inside;
+    padding: 10px 10px;
+}
